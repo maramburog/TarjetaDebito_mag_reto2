@@ -3,7 +3,7 @@ from app.crud import create_user, create_account, update_account
 
 def test_update_account_balance():
     # Crear un usuario y una cuenta
-    user = create_user("test_user")
+    user = create_user("test_user2")
     account = create_account(user, 1000)
 
     # Actualizar el saldo de la cuenta
