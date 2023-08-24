@@ -1,4 +1,4 @@
-# Tarjeta de Débito OLTP App
+# Tarjeta de Débito OLTP App.
 
 Este proyecto es una aplicación de procesamiento de tarjetas de débito basada en clases de Python y el framework Peewee. Permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) en las tablas de Usuario, Cuenta y Tarjeta.
 
